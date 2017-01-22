@@ -1,5 +1,6 @@
 # MiRepositorio
 Repositorio de prueba para GibHub
 
-Caracter�sticas de GitHub
+Características de GitHub
 Formato **Markdown**
+Sincronización remota
